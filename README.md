@@ -40,7 +40,7 @@ Ideally, we want to generate a response to any sentence the user types of in. To
 
 ***Steps to run the project:***
 1. Take Chatbot.ipynb file and open it with google colab
-2. Run each shell one by one and upload [Intents_file](https://github.com/deependra278/ChatBot-using-Tensorflow-and-Neural-Network/blob/bcd7a0bbc88f76937901910d7c2065ef5ba76262/intents.json) file when asked.
+2. Run each shell one by one and upload [Intents_file](https://github.com/KOM-design/chat-bot-for-food-delivery-app/blob/main/intents.json) file when asked.
 3. Train the model using neural network
 4. Check response using [Demo_output] [Demo_output.mp4](https://github.com/deependra278/ChatBot-using-Tensorflow-and-Neural-Network/blob/bcd7a0bbc88f76937901910d7c2065ef5ba76262/Demo_output.mp4)
 5. ***Enjoy***
